@@ -1,0 +1,5 @@
+jx package app.js appname -------> create appname.jx and appname.jxp
+
+jx compile appname.jxp ------> compiles appname.jxp 
+
+preInstall option in .jxp file used to install files required by app during install
